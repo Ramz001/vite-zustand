@@ -23,8 +23,8 @@ export default function AsyncExample() {
   };
 
   return (
-    <div style={{ padding: "20px" }}>
-      <h2>Async Example with Zustand Filters</h2>
+    <div>
+      <h2>Tanstack Query Example with Zustand Filters</h2>
 
       {/* Filter Controls */}
       <div
